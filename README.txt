@@ -1,4 +1,4 @@
-### Udacity Capstone Project - Landmark Recognition
+### Google Landmark Recognition Challenge 2018
 ### Author: Rajan Patel
 
 ### Software and Libraries Required
